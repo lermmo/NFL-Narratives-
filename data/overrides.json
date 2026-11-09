@@ -1,0 +1,4 @@
+{
+  "_help": "Fix or add facts the free data gets wrong. Key = ESPN player id. Fields: birthPlace {city,state,country}, formerTeams {\"CHI\": [2021, 2022]}. Delete this _help line if you like.",
+  "players": {}
+}

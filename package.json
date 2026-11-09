@@ -1,0 +1,26 @@
+{
+  "name": "nfl-narratives",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "data": "node scripts/build-data.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "all-the-cities": "^3.1.0",
+    "csv-parse": "^7.0.3",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2"
+  }
+}
